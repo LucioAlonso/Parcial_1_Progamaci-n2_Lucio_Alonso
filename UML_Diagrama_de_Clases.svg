@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1451px" preserveAspectRatio="none" style="width:2525px;height:1451px;background:#FFFFFF;" version="1.1" viewBox="0 0 2525 1451" width="2525px" zoomAndPan="magnify"><defs/><g><!--MD5=[84718776d214be480e4c259efcb737fc]
+class Main--><rect codeLine="95" fill="#F8F8F8" height="52.7734" id="Main" style="stroke:#383838;stroke-width:1.5;" width="195" x="429.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="27" x="513.5" y="23.1387">Main</text><line style="stroke:#383838;stroke-width:1.5;" x1="430.5" x2="623.5" y1="30.9688" y2="30.9688"/><line style="stroke:#383838;stroke-width:1.5;" x1="430.5" x2="623.5" y1="38.9688" y2="38.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="183" x="435.5" y="53.1792">+static void main(args : String[])</text><!--MD5=[e4381c76bc805a63ed90da338136522b]
+class Sistema--><rect codeLine="100" fill="#F8F8F8" height="91.1875" id="Sistema" style="stroke:#383838;stroke-width:1.5;" width="113" x="470.5" y="121"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="48" x="503" y="137.1387">Sistema</text><line style="stroke:#383838;stroke-width:1.5;" x1="471.5" x2="582.5" y1="144.9688" y2="144.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="476.5" y="159.1792">-String usr</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="476.5" y="171.9839">-String pwd</text><line style="stroke:#383838;stroke-width:1.5;" x1="471.5" x2="582.5" y1="178.5781" y2="178.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="101" x="476.5" y="192.7886">+public Sistema()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="476.5" y="205.5933">+void Menu()</text><!--MD5=[db04a2d451f8378f769469429b8dac74]
+class Interfaz_Grafica--><rect codeLine="76" fill="#F8F8F8" height="219.2344" id="Interfaz_Grafica" style="stroke:#383838;stroke-width:1.5;" width="293" x="380.5" y="289"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="93" x="480.5" y="305.1387">Interfaz_Grafica</text><line style="stroke:#383838;stroke-width:1.5;" x1="381.5" x2="672.5" y1="312.9688" y2="312.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="112" x="386.5" y="327.1792">-Consultor consultor</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="148" x="386.5" y="339.9839">-Identificador identificador</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="119" x="386.5" y="352.7886">-Vendedor vendedor</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="163" x="386.5" y="365.5933">-Administrador administrador</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="386.5" y="378.3979">-String usr</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="386.5" y="391.2026">-String pwd</text><line style="stroke:#383838;stroke-width:1.5;" x1="381.5" x2="672.5" y1="397.7969" y2="397.7969"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="101" x="386.5" y="412.0073">+InterfazGrafica()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="386.5" y="424.812">+void Ventana()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="386.5" y="437.6167">+void panel()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="386.5" y="450.4214">+panelPrincipal()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="117" x="386.5" y="463.2261">+panelInicioSesion()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="274" x="386.5" y="476.0308">-void panelPrincipalUsuario(usr : String, tipo : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="281" x="386.5" y="488.8354">-void panelControlVehiculos(usr : String, tipo : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="270" x="386.5" y="501.6401">-void panelNuevaReserva(usr : String, tipo : int)</text><!--MD5=[ee12810474aa94499d184d55ea7eab4a]
+class Identificador--><rect codeLine="67" fill="#F8F8F8" height="91.1875" id="Identificador" style="stroke:#383838;stroke-width:1.5;" width="238" x="69" y="674.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="75" x="150.5" y="690.6387">Identificador</text><line style="stroke:#383838;stroke-width:1.5;" x1="70" x2="306" y1="698.4688" y2="698.4688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="75" y="712.6792">-String pwd</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="75" y="725.4839">-String usr</text><line style="stroke:#383838;stroke-width:1.5;" x1="70" x2="306" y1="732.0781" y2="732.0781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="222" x="75" y="746.2886">+Identificador(usr : String, pwd : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="226" x="75" y="759.0933">+int identificar(usr : String, pwd : String)</text><!--MD5=[6d078d74eeb4f0904f0d3dd92dc09f78]
+class Consultor--><rect codeLine="45" fill="#F8F8F8" height="142.4063" id="Consultor" style="stroke:#383838;stroke-width:1.5;" width="396" x="14" y="885"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="57" x="183.5" y="901.1387">Consultor</text><line style="stroke:#383838;stroke-width:1.5;" x1="15" x2="409" y1="908.9688" y2="908.9688"/><line style="stroke:#383838;stroke-width:1.5;" x1="15" x2="409" y1="916.9688" y2="916.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="156" x="20" y="931.1792">+String lectorDeReservas()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="134" x="20" y="943.9839">+String lectorDeStock()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="340" x="20" y="956.7886">+String buscadorReservasActivas(patente : String, pos : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="334" x="20" y="969.5933">+String buscadorReservasFinalizadas(dni : String, pos : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="227" x="20" y="982.3979">+String[] separadorDatos(datos : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="275" x="20" y="995.2026">+String[] listarModelos(vehiculosDatos : String[])</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="20" y="1008.0073">+String[] listarVehiculos()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="384" x="20" y="1020.812">+String vehiculosDatos(vehiculos : String[], vehiculoBuscar : String)</text><!--MD5=[e363550a3c76349e2d25d63e24111731]
+class Vendedor--><rect codeLine="121" fill="#F8F8F8" height="168.0156" id="Vendedor" style="stroke:#383838;stroke-width:1.5;" width="396" x="258" y="1057"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="60" x="426" y="1073.1387">Vendedor</text><line style="stroke:#383838;stroke-width:1.5;" x1="259" x2="653" y1="1080.9688" y2="1080.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="247" x="264" y="1095.1792">#ControladorReservas controladorReservas</text><line style="stroke:#383838;stroke-width:1.5;" x1="259" x2="653" y1="1101.7734" y2="1101.7734"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="264" y="1115.9839">+Vendedor()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="156" x="264" y="1128.7886">+String lectorDeReservas()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="134" x="264" y="1141.5933">+String lectorDeStock()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="312" x="264" y="1154.3979">+String buscadorReservasActivas(dni : String, pos : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="334" x="264" y="1167.2026">+String buscadorReservasFinalizadas(dni : String, pos : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="227" x="264" y="1180.0073">+String[] separadorDatos(datos : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="275" x="264" y="1192.812">+String[] listarModelos(vehiculosDatos : String[])</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="264" y="1205.6167">+String[] listarVehiculos()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="384" x="264" y="1218.4214">+String vehiculosDatos(vehiculos : String[], vehiculoBuscar : String)</text><!--MD5=[fdcda49d453d44c676d62f3f6af62207]
+class Administrador--><rect codeLine="25" fill="#F8F8F8" height="244.8438" id="Administrador" style="stroke:#383838;stroke-width:1.5;" width="396" x="509" y="597.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="84" x="665" y="613.6387">Administrador</text><line style="stroke:#383838;stroke-width:1.5;" x1="510" x2="904" y1="621.4688" y2="621.4688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="240" x="515" y="635.6792">-DiferenciadorFechas diferenciadorFechas</text><line style="stroke:#383838;stroke-width:1.5;" x1="510" x2="904" y1="642.2734" y2="642.2734"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="515" y="656.4839">+Administrador()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="265" x="515" y="669.2886">+void agregadorDeStock(vehiculo : Vehiculos)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="249" x="515" y="682.0933">+void agregadorDeStock(vehiculos : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="242" x="515" y="694.8979">+String buscadorDeStock(patente : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="264" x="515" y="707.7026">+String buscadorDeReservas(patente : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="382" x="515" y="720.5073">+void borradorDeAutos(vehiculos : String, vehiculoPatente : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="273" x="515" y="733.312">+void actualizadorDeReservas(patente : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="156" x="515" y="746.1167">+String lectorDeReservas()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="134" x="515" y="758.9214">+String lectorDeStock()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="340" x="515" y="771.7261">+String buscadorReservasActivas(patente : String, pos : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="334" x="515" y="784.5308">+String buscadorReservasFinalizadas(dni : String, pos : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="227" x="515" y="797.3354">+String[] separadorDatos(datos : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="275" x="515" y="810.1401">+String[] listarModelos(vehiculosDatos : String[])</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="515" y="822.9448">+String[] listarVehiculos()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="384" x="515" y="835.7495">+String vehiculosDatos(vehiculos : String[], vehiculoBuscar : String)</text><!--MD5=[eea0a07444c5583b594d134d12d62089]
+class Reservas--><rect codeLine="155" fill="#F8F8F8" height="270.4531" id="Reservas" style="stroke:#383838;stroke-width:1.5;" width="838" x="940" y="585"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="1331" y="601.1387">Reservas</text><line style="stroke:#383838;stroke-width:1.5;" x1="941" x2="1777" y1="608.9688" y2="608.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="85" x="946" y="623.1792">-String nombre</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="946" y="635.9839">-String dni</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="946" y="648.7886">-String telefono</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="946" y="661.5933">-String direccion</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="946" y="674.3979">-String precio</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="86" x="946" y="687.2026">-String patente</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="117" x="946" y="700.0073">-String fechareserva</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="946" y="712.812">-String estado</text><line style="stroke:#383838;stroke-width:1.5;" x1="941" x2="1777" y1="719.4063" y2="719.4063"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="826" x="946" y="733.6167">+Reservas(nombre : String, dni : String, telefono : String, direccion : String, precio : String, patente : String, fechareserva : String, estado : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="946" y="746.4214">+String toString()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="118" x="946" y="759.2261">+String getNombre()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="946" y="772.0308">+String getDni()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="124" x="946" y="784.8354">+String getTelefono()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="126" x="946" y="797.6401">+String getDireccion()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="946" y="810.4448">+String getPrecio()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="117" x="946" y="823.2495">+String getPatente()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="151" x="946" y="836.0542">+String getFechareserva()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="111" x="946" y="848.8589">+String getEstado()</text><!--MD5=[0c1527766775ce92be50c600e04f5ac5]
+class Vehiculos--><rect codeLine="135" fill="#F8F8F8" height="244.8438" id="Vehiculos" style="stroke:#383838;stroke-width:1.5;" width="705" x="1813.5" y="597.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="58" x="2137" y="613.6387">Vehiculos</text><line style="stroke:#383838;stroke-width:1.5;" x1="1814.5" x2="2517.5" y1="621.4688" y2="621.4688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="86" x="1819.5" y="635.6792">-String patente</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="1819.5" y="648.4839">-String marca</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="1819.5" y="661.2886">-String modelo</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="68" x="1819.5" y="674.0933">-String color</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="1819.5" y="686.8979">-String gasolina</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="1819.5" y="699.7026">-String precio</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="80" x="1819.5" y="712.5073">-String estado</text><line style="stroke:#383838;stroke-width:1.5;" x1="1814.5" x2="2517.5" y1="719.1016" y2="719.1016"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="693" x="1819.5" y="733.312">+Vehiculos(patente : String, marca : String, modelo : String, color : String, gasolina : String, precio : String, estado : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="1819.5" y="746.1167">+String toString()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="117" x="1819.5" y="758.9214">+String getPatente()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="106" x="1819.5" y="771.7261">+String getMarca()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="1819.5" y="784.5308">+String getModelo()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="102" x="1819.5" y="797.3354">+String getColor()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="122" x="1819.5" y="810.1401">+String getGasolina()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="111" x="1819.5" y="822.9448">+String getEstado()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="1819.5" y="835.7495">+String getPrecio()</text><!--MD5=[fa46c53ff71d810dd3f76aec6a8bdda2]
+class Usuarios--><rect codeLine="177" fill="#F8F8F8" height="142.4063" id="Usuarios" style="stroke:#383838;stroke-width:1.5;" width="396" x="7" y="1302"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="51" x="179.5" y="1318.1387">Usuarios</text><line style="stroke:#383838;stroke-width:1.5;" x1="8" x2="402" y1="1325.9688" y2="1325.9688"/><line style="stroke:#383838;stroke-width:1.5;" x1="8" x2="402" y1="1333.9688" y2="1333.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="156" x="13" y="1348.1792">+String lectorDeReservas()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="134" x="13" y="1360.9839">+String lectorDeStock()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="312" x="13" y="1373.7886">+String buscadorReservasActivas(dni : String, pos : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="334" x="13" y="1386.5933">+String buscadorReservasFinalizadas(dni : String, pos : int)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="227" x="13" y="1399.3979">+String[] separadorDatos(datos : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="275" x="13" y="1412.2026">+String[] listarModelos(vehiculosDatos : String[])</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="13" y="1425.0073">+String[] listarVehiculos()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="384" x="13" y="1437.812">+String vehiculosDatos(vehiculos : String[], vehiculoBuscar : String)</text><!--MD5=[b3da3c9e7a1075f81ec1e71987e3f257]
+class ControladorReservas--><rect codeLine="56" fill="#F8F8F8" height="78.3828" id="ControladorReservas" style="stroke:#383838;stroke-width:1.5;" width="941" x="438.5" y="1334"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="127" x="845.5" y="1350.1387">ControladorReservas</text><line style="stroke:#383838;stroke-width:1.5;" x1="439.5" x2="1378.5" y1="1357.9688" y2="1357.9688"/><line style="stroke:#383838;stroke-width:1.5;" x1="439.5" x2="1378.5" y1="1365.9688" y2="1365.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="341" x="444.5" y="1380.1792">+String[] listarModelosDisponibles(vehiculosDatos : String[])</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="929" x="444.5" y="1392.9839">+void agregadorDeReservas(nombre : String ,dni : String, telefono : String, direccion : String, precio : String, patente : String, fechareserva : String, estado : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="293" x="444.5" y="1405.7886">+void agregadorDeReservas(reservasLista : String)</text><!--MD5=[9a0bf3c5cbcc19c050bf1c26f057136a]
+class DiferenciadorFechas--><rect codeLine="62" fill="#F8F8F8" height="65.5781" id="DiferenciadorFechas" style="stroke:#383838;stroke-width:1.5;" width="310" x="689" y="1108"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="125" x="781.5" y="1124.1387">DiferenciadorFechas</text><line style="stroke:#383838;stroke-width:1.5;" x1="690" x2="998" y1="1131.9688" y2="1131.9688"/><line style="stroke:#383838;stroke-width:1.5;" x1="690" x2="998" y1="1139.9688" y2="1139.9688"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="188" x="695" y="1154.1792">Date stringaFecha(fecha : String)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="298" x="695" y="1166.9839">diferenciarDias(fechaInicio : String, fechaFin : String)</text><!--MD5=[781024f5f754f12959196b8fd6db9055]
+link Main to Sistema--><path codeLine="5" d="M527,60.07 C527,75.86 527,96.66 527,115.6 " fill="none" id="Main-to-Sistema" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="527,120.89,531,111.89,527,115.89,523,111.89,527,120.89" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[d1a2a60e444df84734ae0550047e26ab]
+link Sistema to Interfaz_Grafica--><path codeLine="6" d="M527,212.12 C527,232.69 527,258.15 527,283.54 " fill="none" id="Sistema-to-Interfaz_Grafica" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="527,288.62,531,279.62,527,283.62,523,279.62,527,288.62" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="95" x="528" y="255.0669">interfazGrafica</text><!--MD5=[d875397da3914b3c2ea04c27a89cdfba]
+link Interfaz_Grafica to Identificador--><path codeLine="8" d="M380.201,469.569 C348.486,488.909 316.776,511.877 291,538 C253.542,575.961 225.055,630.267 207.636,669.48 " fill="none" id="Interfaz_Grafica-to-Identificador" style="stroke:#383838;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#383838" points="205.567,674.185,212.8516,667.5567,207.5798,669.608,205.5284,664.3362,205.567,674.185" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="292" y="551.0669">Usa</text><!--MD5=[618bd39d9afcb1ac6b3b0023ca2cafcf]
+link Interfaz_Grafica to Consultor--><path codeLine="9" d="M414.876,508.095 C407.869,517.768 401.456,527.782 396,538 C327.947,665.446 397.367,730.537 324,855 C318.653,864.07 312.206,872.767 305.138,880.984 " fill="none" id="Interfaz_Grafica-to-Consultor" style="stroke:#383838;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#383838" points="301.621,884.978,310.5714,880.8682,304.9258,881.2259,304.5681,875.5804,301.621,884.978" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="397" y="551.0669">Usa</text><!--MD5=[0e9031ee57fcf5985faa13aebee760cd]
+link Interfaz_Grafica to Vendedor--><path codeLine="10" d="M484.443,508.425 C476.487,533.231 469.322,559.73 465,585 C437.135,747.93 442.57,941.685 449.191,1051.813 " fill="none" id="Interfaz_Grafica-to-Vendedor" style="stroke:#383838;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#383838" points="449.507,1056.993,452.9518,1047.7662,449.2027,1052.0023,444.9666,1048.2532,449.507,1056.993" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="466" y="724.5669">Usa</text><!--MD5=[1743bd0d4fe4eb094eac2ec049346b5a]
+link Interfaz_Grafica to Administrador--><path codeLine="11" d="M588.191,508.114 C603.525,535.331 620.106,564.763 635.877,592.757 " fill="none" id="Interfaz_Grafica-to-Administrador" style="stroke:#383838;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#383838" points="638.401,597.237,637.4678,587.4325,635.9465,592.8809,630.498,591.3596,638.401,597.237" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="613" y="551.0669">Usa</text><!--MD5=[8bc25a98aeb00a7a9d6959ef198d9b8d]
+link Interfaz_Grafica to Reservas--><path codeLine="12" d="M673.83,455.885 C765.855,491.224 888.678,538.39 1004.906,583.023 " fill="none" id="Interfaz_Grafica-to-Reservas" style="stroke:#383838;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#383838" points="1009.74,584.877,1002.7704,577.9182,1005.0719,583.0857,999.9044,585.3872,1009.74,584.877" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="920" y="551.0669">Usa</text><!--MD5=[390497040a8e2baf815938c2837a887a]
+link Interfaz_Grafica to Vehiculos--><path codeLine="13" d="M673.863,411.31 C912.029,432.61 1396.06,484.861 1795,585 C1808.46,588.378 1822.11,592.061 1835.84,595.979 " fill="none" id="Interfaz_Grafica-to-Vehiculos" style="stroke:#383838;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#383838" points="1840.9,597.433,1833.3606,591.0961,1836.0957,596.0477,1831.1441,598.7829,1840.9,597.433" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="1661" y="551.0669">Usa</text><!--MD5=[e11ece98c0b47b71590cba407744898c]
+link Vendedor to Usuarios--><path codeLine="18" d="M365.383,1225.035 C342.914,1245.625 318.823,1267.7 296.32,1288.32 " fill="none" id="Vendedor-to-Usuarios" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="none" points="300.891,1293.627,281.416,1301.977,291.432,1283.305,300.891,1293.627" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[ce18918d067749c1848d091a792dad6a]
+link Vendedor to ControladorReservas--><path codeLine="19" d="M619.543,1225.035 C691.049,1261.34 771.647,1302.262 829.602,1331.688 " fill="none" id="Vendedor-to-ControladorReservas" style="stroke:#383838;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#383838" points="834.085,1333.964,827.8698,1326.3239,829.6264,1331.7011,824.2492,1333.4577,834.085,1333.964" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="711" y="1268.0669">Usa</text><!--MD5=[cf43ffba204b06cf02f505bb48676ddd]
+link Consultor to Usuarios--><path codeLine="20" d="M210.813,1027.399 C209.63,1097.515 207.81,1205.435 206.522,1281.795 " fill="none" id="Consultor-to-Usuarios" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="none" points="213.518,1282.07,206.182,1301.949,199.52,1281.834,213.518,1282.07" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[7ab09d38d7258b8b644ab9550d824156]
+link Administrador to Vendedor--><path codeLine="22" d="M634.063,842.755 C596.664,905.186 551.664,980.307 516.259,1039.409 " fill="none" id="Administrador-to-Vendedor" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="none" points="522.118,1043.25,505.835,1056.81,510.108,1036.055,522.118,1043.25" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[eede091e1c5b63b3c449b59554ebd442]
+link Administrador to DiferenciadorFechas--><path codeLine="23" d="M746.81,842.755 C775.722,931.178 812.956,1045.055 831.845,1102.825 " fill="none" id="Administrador-to-DiferenciadorFechas" style="stroke:#383838;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#383838" points="833.505,1107.901,834.5095,1098.1035,831.9509,1103.1487,826.9057,1100.5901,833.505,1107.901" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="805" y="960.5669">Usa</text><!--MD5=[3587efd45868928df83be708de22aa60]
+@startuml
+skinparam classAttributeIconSize 0
+hide circle
+skinparam monochrome true
+skinparam shadowing false
+Main - -> Sistema 
+Sistema - -> Interfaz_Grafica : interfazGrafica
+
+Interfaz_Grafica ..> Identificador : Usa
+Interfaz_Grafica ..> Consultor : Usa
+Interfaz_Grafica ..> Vendedor : Usa
+Interfaz_Grafica ..> Administrador : Usa
+Interfaz_Grafica ..> Reservas : Usa
+Interfaz_Grafica ..> Vehiculos : Usa
+
+
+
+abstract Usuarios         
+Vendedor - -|> Usuarios 
+Vendedor ..> ControladorReservas : Usa
+Consultor - -|> Usuarios
+
+Administrador - -|> Vendedor
+Administrador ..> DiferenciadorFechas : Usa
+
+class Administrador {
+-DiferenciadorFechas diferenciadorFechas
+
++Administrador()
++void agregadorDeStock(vehiculo : Vehiculos)
++void agregadorDeStock(vehiculos : String)
++String buscadorDeStock(patente : String)
++String buscadorDeReservas(patente : String)
++void borradorDeAutos(vehiculos : String, vehiculoPatente : String)
++void actualizadorDeReservas(patente : String)
++String lectorDeReservas()
++String lectorDeStock()
++String buscadorReservasActivas(patente : String, pos : int)
++String buscadorReservasFinalizadas(dni : String, pos : int)
++String[] separadorDatos(datos : String)
++String[] listarModelos(vehiculosDatos : String[])
++String[] listarVehiculos()
++String vehiculosDatos(vehiculos : String[], vehiculoBuscar : String)
+}
+
+class Consultor{
++String lectorDeReservas()
++String lectorDeStock()
++String buscadorReservasActivas(patente : String, pos : int)
++String buscadorReservasFinalizadas(dni : String, pos : int)
++String[] separadorDatos(datos : String)
++String[] listarModelos(vehiculosDatos : String[])
++String[] listarVehiculos()
++String vehiculosDatos(vehiculos : String[], vehiculoBuscar : String)
+}
+
+class ControladorReservas{
++String[] listarModelosDisponibles(vehiculosDatos : String[])
++void agregadorDeReservas(nombre : String ,dni : String, telefono : String, direccion : String, precio : String, patente : String, fechareserva : String, estado : String)
++void agregadorDeReservas(reservasLista : String)
+}
+
+class DiferenciadorFechas{
+Date stringaFecha(fecha : String)
+diferenciarDias(fechaInicio : String, fechaFin : String)
+}
+
+class Identificador{
+-String pwd
+-String usr
+
++Identificador(usr : String, pwd : String)
++int identificar(usr : String, pwd : String)
+}
+
+
+class Interfaz_Grafica{
+-Consultor consultor
+-Identificador identificador
+-Vendedor vendedor
+-Administrador administrador
+-String usr
+-String pwd
+
++InterfazGrafica()
++void Ventana()
++void panel()
++panelPrincipal()
++panelInicioSesion()
+-void panelPrincipalUsuario(usr : String, tipo : int)
+-void panelControlVehiculos(usr : String, tipo : int)
+-void panelNuevaReserva(usr : String, tipo : int)
+}
+
+
+class Main{
++static void main(args : String[])
+}
+
+
+class Sistema{
+-String usr
+-String pwd
+
++public Sistema()
++void Menu()
+}
+
+
+class Usuarios{
++String lectorDeReservas()
++String lectorDeStock()
++String buscadorReservasActivas(dni : String, pos : int)
++String buscadorReservasFinalizadas(dni : String, pos : int)
++String[] separadorDatos(datos : String)
++String[] listarModelos(vehiculosDatos : String[])
++String[] listarVehiculos()
++String vehiculosDatos(vehiculos : String[], vehiculoBuscar : String)
+}
+
+
+class Vendedor{
+#ControladorReservas controladorReservas
+
++Vendedor()
++String lectorDeReservas()
++String lectorDeStock()
++String buscadorReservasActivas(dni : String, pos : int)
++String buscadorReservasFinalizadas(dni : String, pos : int)
++String[] separadorDatos(datos : String)
++String[] listarModelos(vehiculosDatos : String[])
++String[] listarVehiculos()
++String vehiculosDatos(vehiculos : String[], vehiculoBuscar : String)
+}
+
+class Vehiculos{
+-String patente
+-String marca
+-String modelo
+-String color
+-String gasolina
+-String precio
+-String estado
+
++Vehiculos(patente : String, marca : String, modelo : String, color : String, gasolina : String, precio : String, estado : String)
++String toString()
++String getPatente()
++String getMarca()
++String getModelo()
++String getColor()
++String getGasolina()
++String getEstado()
++String getPrecio()
+}
+
+class Reservas{
+-String nombre
+-String dni
+-String telefono
+-String direccion
+-String precio
+-String patente
+-String fechareserva
+-String estado
+
++Reservas(nombre : String, dni : String, telefono : String, direccion : String, precio : String, patente : String, fechareserva : String, estado : String)
++String toString()
++String getNombre()
++String getDni()
++String getTelefono()
++String getDireccion()
++String getPrecio()
++String getPatente()
++String getFechareserva()
++String getEstado()
+}
+
+abstract Usuarios
+@enduml
+
+PlantUML version 1.2021.10(Mon Aug 30 13:43:48 UTC 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

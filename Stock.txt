@@ -1,0 +1,8 @@
+:PATENTE:MARCA:MODELO:COLOR:GASOLINA:PRECIO:ESTADO:
+
+:HOL909:Mercedes:2010:Verde:60:20000:false:;
+:JJJ333:Reno 12:1980:Marron:30:600:false:;
+:KKK333:Ferrari:2018:rojo:70:55000:false:;
+:HOL909:Mercedes:2010:Verde:60:20000:false:;
+:LOL312:Megane II:1995:Rojo:60:4000:false:;
+:UUI892:Falcon:1889:marron:30:500:false:;
